@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aadhi-anilkumar;
 - 👀 I’m interested in software devolpment;
-- 🌱 I’m currently learning nothing;
+- 🌱 I’m currently learning webdev;
 - 💞️ I’m looking to collaborate on any dev project;
 - 📫 reach me on ig "aadhi_anilkumar";
 
